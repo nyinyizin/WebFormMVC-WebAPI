@@ -1,0 +1,17 @@
+E:\Sickness\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+E:\Sickness\WebApplication3\WebApplication3\bin\WebApplication3.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Net.Http.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Net.Http.xml
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+E:\Sickness\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+E:\Sickness\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Web.Http.SelfHost.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Web.Http.SelfHost.xml
+E:\Sickness\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+E:\Sickness\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+E:\Sickness\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
